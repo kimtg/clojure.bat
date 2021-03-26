@@ -1,1 +1,1 @@
-curl https://repo1.maven.org/maven2/org/clojure/clojure/1.8.0/clojure-1.8.0.jar>clojure-1.8.0.jar
+curl -O https://repo1.maven.org/maven2/org/clojure/clojure/1.8.0/clojure-1.8.0.jar
